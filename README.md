@@ -1,5 +1,3 @@
-The following notes are largely derived from "Learn You a Haskell for Great Good", Miran Lipovača, April 2011. Accessed January 2022, http://learnyouahaskell.com/.  This work is licensed under the same [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
-
 # Functor
 
 ## Definition
@@ -559,3 +557,8 @@ In console:
 (5,[8,2,1])
 ```
 
+---
+
+The above notes are largely derived from "Learn You a Haskell for Great Good", Miran Lipovača, April 2011. Accessed January 2022, http://learnyouahaskell.com/.  This work is licensed under the same [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+Notes are available at https://github.com/erichulburd/haskell-notes.
